@@ -1,0 +1,242 @@
+[17:15:23] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.9
+[17:15:23] [ForkJoinPool-1-worker-1/WARN]: Mod ctov uses the version 3.4.9a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[17:15:23] [main/INFO]: Loading 89 mods:
+	- architectury 11.1.17
+	- betterfortresses 1.20.4-Fabric-2.4.4
+	   \-- org_reflections_reflections 0.10.2
+	- cloth-config 13.0.121
+	   \-- cloth-basic-math 0.6.1
+	- creativecore 2.11.26
+	   \-- net_neoforged_bus 7.2.0
+	- ctov 3.4.9a
+	- explorify 1.6.2
+	- fabric-api 0.97.1+1.20.4
+	   |-- fabric-api-base 0.4.37+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
+	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.21+78d798af4f
+	   |-- fabric-commands-v0 0.2.59+df3654b34f
+	   |-- fabric-containers-v0 0.1.87+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.5+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
+	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.75+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	   |-- fabric-item-api-v1 2.3.0+bcdd12964f
+	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
+	   |-- fabric-message-api-v1 6.0.6+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	   |-- fabric-models-v0 0.4.8+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.8+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	   |-- fabric-particles-v1 1.1.8+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.21+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.20+ee30b13a4f
+	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
+	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	   |-- fabric-rendering-v0 1.1.57+df3654b34f
+	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.56+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabric-language-kotlin 1.11.0+kotlin.2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.24.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.6.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.6.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.6.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- java 21
+	- lithostitched 1.1.8
+	- midnightlib 1.5.3
+	- minecraft 1.20.4
+	- roughlyenoughitems 14.1.786
+	   \-- error_notifier 1.0.9
+	- silk-all 1.10.3
+	   |-- silk-commands 1.10.3
+	   |-- silk-core 1.10.3
+	   |-- silk-game 1.10.3
+	   |-- silk-igui 1.10.3
+	   |-- silk-nbt 1.10.3
+	   |-- silk-network 1.10.3
+	   \-- silk-persistence 1.10.3
+	- simple-armor-hud 1.20.4-1.4.2
+	   \-- spruceui 5.0.3+1.20.2
+	- sound_physics_remastered 1.20.4-1.4.5
+	- the_bumblezone 7.5.3+1.20.4-fabric
+	   |-- athena 3.3.0
+	   |-- cardinal-components-base 5.4.0
+	   |-- cardinal-components-entity 5.4.0
+	   \-- noindium 1.1.0+1.20.4
+	- trinkets 3.8.1
+	   |-- cardinal-components-base 5.4.0
+	   \-- cardinal-components-entity 5.4.0
+	- veinminer 2.0.3
+	   |-- de_miraculixx_core_ 2.0.4
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- xaerobetterpvp 24.6.1
+	- xaeroworldmap 1.39.0
+	- yungsapi 1.20.4-Fabric-4.4.3
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+[17:15:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/leokl/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:15:24] [main/INFO]: Compatibility level set to JAVA_16
+[17:15:24] [main/INFO]: Compatibility level set to JAVA_17
+[17:15:24] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:15:24] [main/WARN]: Reference map 'simple-armor-hud-refmap.json' for simple-armor-hud.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:15:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:15:38] [main/INFO]: Reflections took 50 ms to scan 1 urls, producing 1 keys and 1 values
+[17:15:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[17:15:38] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/leokl/servidor_minecraft/config/betterfortresses/fabric-1_20_4
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[17:15:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[17:15:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[17:15:38] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[17:15:38] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[17:15:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[17:15:38] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[17:15:38] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[17:15:39] [main/INFO]: Initializing Silk due to init call
+[17:15:40] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 3 values
+[17:15:40] [main/INFO]: Reflections took 9 ms to scan 1 urls, producing 1 keys and 3 values
+[17:15:40] [main/INFO]: Loading Better PVP - Stage 1/2 (Server)
+[17:15:40] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17:15:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:15:40] [main/INFO]: Found new data pack betterfortresses, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack ctov, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack explorify, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack fabric, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack fabric-convention-tags-v1, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack lithostitched, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack the_bumblezone, loading it automatically
+[17:15:40] [main/INFO]: Found new data pack trinkets, loading it automatically
+[17:15:43] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager - No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:all/saplings"}]; No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:mushrooms_for_foragers_table"}]
+[17:15:44] [main/INFO]: Loaded 7 recipes
+[17:15:44] [main/INFO]: Loaded 1403 advancements
+[17:15:44] [main/INFO]: [REI] ----------------------------------------
+[17:15:44] [main/INFO]: [REI] REIPlugin starting main-reload for START.
+[17:15:44] [main/INFO]: [REI] Plugins (3):
+[17:15:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[17:15:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI] ----------------------------------------
+[17:15:44] [main/INFO]: [REI] ****************************************
+[17:15:44] [main/INFO]: [REI] REIServerPlugin starting main-reload for START.
+[17:15:44] [main/INFO]: [REI] Plugins (3):
+[17:15:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[17:15:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI] ****************************************
+[17:15:44] [main/INFO]: [REI] REIPlugin finished post-reload for START in 5.651 ms, totaling 71.26 ms.
+[17:15:44] [main/INFO]: [REI] REIServerPlugin finished post-reload for START in 2.191 ms, totaling 11.39 ms.
+[17:15:44] [main/INFO]: [REI] ----------------------------------------
+[17:15:44] [main/INFO]: [REI] REIPlugin starting main-reload for END.
+[17:15:44] [main/INFO]: [REI] Plugins (3):
+[17:15:44] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[17:15:44] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[17:15:44] [main/INFO]: [REI] ----------------------------------------
+[17:15:45] [main/INFO]: [REI] ****************************************
+[17:15:45] [main/INFO]: [REI] REIServerPlugin starting main-reload for END.
+[17:15:45] [main/INFO]: [REI] Plugins (3):
+[17:15:45] [main/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[17:15:45] [main/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[17:15:45] [main/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[17:15:45] [main/INFO]: [REI] ****************************************
+[17:15:45] [main/INFO]: [REI] REIPlugin finished post-reload for END in 8.578 ms, totaling 48.18 ms.
+[17:15:45] [main/INFO]: [REI] REIServerPlugin finished post-reload for END in 962.3 μs, totaling 12.72 ms.
+[17:15:45] [main/INFO]: Applied 0 biome modifications to 0 of 72 new biomes in 1.509 ms
+[17:15:45] [Server thread/INFO]: Reached SERVER_STARTING state
+[17:15:45] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[17:15:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[17:15:45] [Server thread/INFO]: Loading properties
+[17:15:45] [Server thread/INFO]: Default game type: SURVIVAL
+[17:15:45] [Server thread/INFO]: Generating keypair
+[17:15:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:15:46] [Server thread/INFO]: Using epoll channel type
+[17:15:46] [Server thread/INFO]: Preparing level "world"
+[17:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:16:02] [Server thread/INFO]: Time elapsed: 7313 ms
+[17:16:02] [Server thread/INFO]: Done (15.984s)! For help, type "help"
+[17:16:02] [Server thread/INFO]: Loading Better PVP - Stage 2/2 (Server)
+[17:16:02] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17:16:11] [User Authenticator #1/INFO]: UUID of player 09klhhi is bcbd265a-c305-4525-8bde-3abce117815d
+[17:16:14] [Server thread/INFO]: 09klhhi[/127.93.246.122:47413] logged in with entity id 298 at (-4.5, 76.0, 6.5)
+[17:16:14] [Server thread/INFO]: 09klhhi joined the game
+[17:21:51] [Server thread/INFO]: 09klhhi has made the advancement [Stone Age]
+[17:22:11] [Server thread/INFO]: 09klhhi has made the advancement [Getting an Upgrade]
+[17:26:21] [Server thread/INFO]: 09klhhi has made the advancement [Sweet Dreams]
+[17:36:39] [Server thread/INFO]: 09klhhi has made the advancement [Monster Hunter]
+[17:42:24] [Server thread/INFO]: 09klhhi has made the advancement [Acquire Hardware]
+[17:42:30] [Server thread/INFO]: 09klhhi has made the advancement [Suit Up]
+[17:43:51] [Server thread/INFO]: 09klhhi has made the advancement [Isn't It Iron Pick]
+[17:45:12] [Server thread/INFO]: 09klhhi has made the advancement [Diamonds!]
+[17:46:47] [Server thread/INFO]: 09klhhi has made the advancement [The Cutest Predator]
+[17:51:33] [Server thread/INFO]: 09klhhi lost connection: Disconnected
+[17:51:33] [Server thread/INFO]: 09klhhi left the game
+[17:51:37] [User Authenticator #2/INFO]: UUID of player 09klhhi is bcbd265a-c305-4525-8bde-3abce117815d
+[17:51:39] [Server thread/INFO]: 09klhhi[/127.93.246.122:47889] logged in with entity id 8145 at (-189.04993963074168, -44.504799122994086, -141.5911629529864)
+[17:51:39] [Server thread/INFO]: 09klhhi joined the game
+[17:53:59] [Server thread/INFO]: 09klhhi lost connection: Disconnected
+[17:53:59] [Server thread/INFO]: 09klhhi left the game
+[17:54:08] [Server thread/INFO]: Stopping the server
+[17:54:08] [Server thread/INFO]: Stopping server
+[17:54:08] [Server thread/INFO]: Saving players
+[17:54:08] [Server thread/INFO]: Saving worlds
+[17:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:54:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[17:54:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:54:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:54:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:54:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17:54:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:54:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:54:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
